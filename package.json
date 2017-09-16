@@ -1,6 +1,6 @@
 {
   "name": "react-focus-element",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "react working in contenteditable element for iphone,chrome,safari(webkit kernel browser) to fix focus bug",
   "main": "lib/index.js",
   "scripts": {
