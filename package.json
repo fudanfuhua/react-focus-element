@@ -15,10 +15,10 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/danawoodman/react-fontawesome.git"
+    "url": "git+https://github.com/fudanfuhua/react-focus-element.git"
   },
   "bujs": {
-    "url": "https://github.com/danawoodman/react-fontawesome/issues"
+    "url": "https://github.com/fudanfuhua/react-focus-element/issues"
   },
   "keywords": [
     "react",
@@ -48,7 +48,7 @@
     "sinon": "^2.1.0",
     "sinon-chai": "^2.8.0"
   },
-  "homepage": "https://github.com/danawoodman/react-fontawesome#readme",
+  "homepage": "git+https://github.com/fudanfuhua#readme",
   "engines": {
     "node": ">=0.10.0"
   },
