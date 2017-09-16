@@ -1,8 +1,4 @@
 # react-focus-element
-react working use contenteditable element for iphone,chrome,safari(webkit kernel browser) to fix focus bug
-
-
-# react-fontawesome
 
 [![styled with prettier](https://img.shields.io/badge/styled_with-prettier-ff69b4.svg)](https://github.com/prettier/prettier)
 [![Travis CI build status](https://img.shields.io/travis/danawoodman/react-fontawesome.svg)](https://travis-ci.org/danawoodman/react-fontawesome)
@@ -16,7 +12,7 @@ react working use contenteditable element for iphone,chrome,safari(webkit kernel
 ## Install
 
 ```
-npm install --save react-fontawesome
+npm install --save react-focus-element
 ```
 
 *Note: This component can work on most platform and most browser*
